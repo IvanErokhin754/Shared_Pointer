@@ -1,0 +1,6 @@
+*.dSYM/
+asan_main
+build/
+.vscode/
+*.o
+*.out
